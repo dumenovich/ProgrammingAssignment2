@@ -1,9 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
-
 ## 
 # This function puts the supplied matrix into the envelope which later will be used
 # to calculate the inversed matrix and save it in this envelope.
